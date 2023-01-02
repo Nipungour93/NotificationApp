@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "406591834859",
+    "project_id": "testapp-f2274",
+    "storage_bucket": "testapp-f2274.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406591834859:android:b19ae90b278220df48ccae",
+        "android_client_info": {
+          "package_name": "com.mobioapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406591834859-8dglthuhjfa2r84p7h5vf8tgkr01c239.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkc8el2TzaSVZ1w4q1C2REzc4Qx5FJFyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406591834859-8dglthuhjfa2r84p7h5vf8tgkr01c239.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
